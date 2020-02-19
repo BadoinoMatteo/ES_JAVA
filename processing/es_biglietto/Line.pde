@@ -5,6 +5,7 @@ public class Line {
   private float y2;
   private color colore;
   private color bordi;
+  
   public Line(float x1, float y1, float x2, float y2, color colore, color bordi){
     this.x1=x1 ;  
     this.y1 = y1;
