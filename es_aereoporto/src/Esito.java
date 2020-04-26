@@ -1,0 +1,5 @@
+public enum Esito {
+    NESSUNASEGNALAZIONE,
+    MERCERESPINTA,
+    FERMOPASSEGGERO;
+}
